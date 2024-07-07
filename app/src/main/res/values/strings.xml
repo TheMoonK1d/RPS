@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="make_your_move">Make your Move!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="score">"Score: "</string>
+    <string name="moves">%1$s/3</string>
+</resources>
